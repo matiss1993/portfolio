@@ -70,4 +70,4 @@ I’m a Data Scientist with a strong interest in **sports analytics** and **peop
 📫 **Connect**  
 🌍 [statswithmatiss.com](https://statswithmatiss.com)  
 🐦 [@statswithmatiss](https://twitter.com/statswithmatiss)  
-📧 [E-mail](matiss051293@gmail.com)
+📧 [E-mail](mailto:matiss051293@gmail.com)
