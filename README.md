@@ -17,6 +17,7 @@
 ## ⚽️ Sports Analytics Projects
 
 ### Latvian Virslīga Football Analysis  
+*2022 – Present*  
 **Independent Analyst & Blogger**  
 - Conducted data-driven performance analysis of teams and players in Latvia’s top-tier league.
 - Built custom visualizations: shot maps, player radars, xG trends.
